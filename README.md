@@ -8,7 +8,7 @@
         Hi 👋, I'm Arahmans, founder of klibli.com, I love coding web programming so much that it's my hobby. besides that I am a youtuber and web developer.
     </p>
     <br/>
-    ###<p align="center">
+    <p align="center">
         <img src="https://komarev.com/ghpvc/?username=arahmanexcota&label=Profile%20views&color=0e75b6&style=flat" alt="Abdul Rahman Sidiq" />
         <a href="https://github.com/arahmanexcota?tab=followers">
           <img src="https://img.shields.io/github/followers/arahmanexcota?style=social" alt="GitHub Badge">
@@ -21,7 +21,7 @@
     <img src="./mywebsite.png" alt="my website" height="300">
 </p>
 
-###<p align="center"><img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arahmanexcota&layout=compact&langs_count=8&theme=react"/></p>
+<p align="center"><img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arahmanexcota&layout=compact&langs_count=8&theme=react"/></p>
 
 <p align="center">
         
@@ -64,6 +64,12 @@
 <img src="https://img.shields.io/badge/-Firebase-gray?style=for-the-badge&logo=firebase" alt="Firebase"/>
 </p>
 
+<a href="https://rifqirosyidi.github.io">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=arahmanexcota&column=7&theme=onedark"/>
+    </p>
+</a>
+
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=arahmanexcota&show_icons=true&theme=react&include_all_commits=true&count_private=true"/></p>
 <p align="center"><img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=arahmanexcota&theme=react"></p>
 <p align="center"><img alt="ABDUL RAHMAN SIDIQ's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arahmanexcota&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></p>
@@ -83,3 +89,4 @@
         <img src="https://img.shields.io/badge/youtube-Abdul Rahman Sidiq-lightblue?style=for-the-badge&logo=youtube" alt="youtube"/>
     </a>
 </p>
+
