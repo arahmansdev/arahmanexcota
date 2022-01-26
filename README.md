@@ -51,11 +51,7 @@
 
 <img src="https://img.shields.io/badge/-laravel-gray?style=for-the-badge&logo=laravel" alt="laravel"/>
 
-<img src="https://img.shields.io/badge/-Nestjs-gray?style=for-the-badge&logo=nestjs" alt="NestJS"/>
-
 <img src="https://img.shields.io/badge/-mysql-gray?style=for-the-badge&logo=mysql" alt="mysql"/>
-
-<img src="https://img.shields.io/badge/-GraphQL-gray?style=for-the-badge&logo=graphql" alt="GraphQL"/>
 
 <img src="https://img.shields.io/badge/-MongoDB-gray?style=for-the-badge&logo=mongodb" alt="MongoDB"/>
 
