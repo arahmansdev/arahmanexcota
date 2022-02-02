@@ -44,7 +44,6 @@
 
 <img src="https://img.shields.io/badge/-PostgresQL-gray?style=for-the-badge&logo=postgresql" alt="PostgresQL"/>
         
-<img src="https://img.shields.io/badge/-Firebase-gray?style=for-the-badge&logo=firebase" alt="Firebase"/>
 </p>
 
 <p align="center">
@@ -57,7 +56,6 @@
     <img src="https://img.shields.io/badge/-bulma-gray?style=for-the-badge&logo=bulma" alt="bulma"/>
     <img src="https://img.shields.io/badge/-react-gray?style=for-the-badge&logo=react" alt="react"/>
     <img src="https://img.shields.io/badge/-Angular-gray?style=for-the-badge&logo=Angular" alt="Angular"/>
-    <img src="https://img.shields.io/badge/-TypeScript-gray?style=for-the-badge&logo=typescript" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/-codeigniter-gray?style=for-the-badge&logo=codeigniter" alt="codeigniter"/>
     <img src="https://img.shields.io/badge/-laravel-gray?style=for-the-badge&logo=laravel" alt="laravel"/>
 </p>
