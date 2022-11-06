@@ -75,7 +75,7 @@
     <a href="https://www.instagram.com/arahmans_/" target="_blank">
         <img src="https://img.shields.io/badge/instagram-arahmans_-blueviolet?style=for-the-badge&logo=instagram" alt="Instagram"/>
     </a>
-    <a href="https://www.fiverr.com/arahmans" target="_blank">
+    <a href="https://www.fiverr.com/arahmansme" target="_blank">
         <img src="https://img.shields.io/badge/fiverr-arahmans-success?style=for-the-badge&logo=fiverr" alt="Fiverr"/>
     </a>
     <a href="https://twitter.com/ARAHMANS_" target="_blank">
