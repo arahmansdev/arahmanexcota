@@ -5,7 +5,7 @@
     </p>
     <p align="center"><font color="#0095b6"></font>ABDUL RAHMAN SIDIQ</font></p>
     <p align="center">
-        Hi 👋, I'm Arahmans, founder of klibli.com, I love coding web programming so much that it's my hobby. besides that I am a youtuber and web developer.
+        Hi 👋, I'm Arahmans, I love coding web programming so much that it's my hobby. besides that I am a youtuber and web developer.
     </p>
     <br/>
     <p align="center">
